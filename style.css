@@ -254,7 +254,7 @@ header .wrapper {
 
 /* FORM.html */
 .page-form {
-  background-image: url(https://github.com/mattuprogrammer/practie1/blob/main/form.image.jpg?raw=true), linear-gradient(180deg, transparent 0%, transparent 50%, #f8f6f2 50%, #f8f6f2 100%);
+  background-image: url(form.image.jpg), linear-gradient(180deg, transparent 0%, transparent 50%, #f8f6f2 50%, #f8f6f2 100%);
   background-position: right 150px, 0 0;
   background-size: 70vw auto, contain;
   background-repeat: no-repeat;
