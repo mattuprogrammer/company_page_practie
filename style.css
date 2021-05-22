@@ -157,7 +157,7 @@ header .wrapper {
 
 /* HOME */
 .home-hero {
-  background: url(../images/index.image.jpg) no-repeat right top / 70vw auto;
+  background: url(index.image.jpg) no-repeat right top / 70vw auto;
   padding: 5.5rem 1rem 3rem;
 }
 .home-hero h2 {
@@ -226,7 +226,7 @@ header .wrapper {
 
 /* JOB.html */
 .page-job {
-  background-image: url(../images/job.image.jpg), linear-gradient(180deg, transparent 0%, transparent 50%, #f8f6f2 50%, #f8f6f2 100%);
+  background-image: url(job.image.jpg), linear-gradient(180deg, transparent 0%, transparent 50%, #f8f6f2 50%, #f8f6f2 100%);
   background-position: left 150px, 0 0;
   background-size: 70vw auto, contain;
   background-repeat: no-repeat;
@@ -254,7 +254,7 @@ header .wrapper {
 
 /* FORM.html */
 .page-form {
-  background-image: url(../images/form.image.jpg), linear-gradient(180deg, transparent 0%, transparent 50%, #f8f6f2 50%, #f8f6f2 100%);
+  background-image: url(form.image.jpg), linear-gradient(180deg, transparent 0%, transparent 50%, #f8f6f2 50%, #f8f6f2 100%);
   background-position: right 150px, 0 0;
   background-size: 70vw auto, contain;
   background-repeat: no-repeat;
